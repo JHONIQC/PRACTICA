@@ -18,7 +18,7 @@ create table carga_academica(
 );
 
 insert into docente(nombre, apellido_paterno, apellido_materno)
-values ("Fredy", "Barrientos", ""), ("Damaris", "Solier", "");
+values ("JHONI", "QUISPE", ""), ("ANGELA", "FURIER", "");
 
 insert into carga_academica(semestre_academico, numero_horas_semanales, id_docente) 
 values ("2019 I", 16, 1), ("2019 I", 12, 2); 
